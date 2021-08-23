@@ -14,7 +14,7 @@
     <center>![family](https://user-images.githubusercontent.com/89269488/130488144-eb0c4e63-b257-4397-877d-5299095f0397.JPG)
     <h1>   This is my family!</h1>
     <br>
-    <center><img src="rbhslogo1.jfif" height="250">
+    <center>![image](https://user-images.githubusercontent.com/89269488/130488589-3dadc08c-a466-48a8-b16a-0ea21ee7fd58.png)
     <h1>   I am a junior at RBHS. </h1>
     <br>
     <center><img src="myhouse.jpg" height="350">
