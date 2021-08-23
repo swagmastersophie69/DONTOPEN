@@ -9,7 +9,7 @@
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is Sophia's Website!</h1>
-    <center><img src="tree.jpg" alt="centered image" height="500">
+    <center><img src="house.jpg" alt="centered image" height="500">
     <h1> My projects are under Portfolio. <h1>
     <h1> Click "About Me" to learn more about me. <h1>
     
