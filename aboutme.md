@@ -17,9 +17,6 @@
     <center>![image](https://user-images.githubusercontent.com/89269488/130488589-3dadc08c-a466-48a8-b16a-0ea21ee7fd58.png)
     <h1>   I am a junior at RBHS. </h1>
     <br>
-    <center><img src="myhouse.jpg" height="350">
-    <br>
-    <h1>   This is our house <h1>
     <center><img src="friends.jpg" height="250">
     <br>
     <h1>These are some of my friends.<h1>
