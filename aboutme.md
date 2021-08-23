@@ -22,7 +22,7 @@
     <h1>   This is our house <h1>
     <center><img src="friends.jpg" height="250">
     <br>
-    <sub>These are some of my friends.<sub>
+    <h1>These are some of my friends.<h1>
     <br>
     <center><img src="vb.jpg" height="300">
     <h1> I play volleyball <h1>
