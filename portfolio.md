@@ -10,7 +10,8 @@
     <a href="aboutme.html">About Me</a>
     <h1>This is my Portfolio Page! All my projects are here.</h1>
     <br>
-    <center><img scrc="https://user-images.githubusercontent.com/89269488/130489192-7b2273de-4c6d-4de5-aa50-65089e1a231a.jpg" height=200>
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/89269488/130489192-7b2273de-4c6d-4de5-aa50-65089e1a231a.jpg" height=200>
     <h1>   
 	  </body>
 	</html>
