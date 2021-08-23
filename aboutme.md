@@ -21,7 +21,7 @@
     <br>
     <h1>These are some of my friends.<h1>
     <br>
-    <center><img src="vb.jpg" height="300">
+    <center>![vb](https://user-images.githubusercontent.com/89269488/130488949-cacd87e3-2c6e-4716-a13f-f351a6387df2.jpg)
     <h1> I play volleyball <h1>
 	  </body>
 	</html>
