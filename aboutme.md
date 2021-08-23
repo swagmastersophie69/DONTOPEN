@@ -17,7 +17,7 @@
     <center>![image](https://user-images.githubusercontent.com/89269488/130488589-3dadc08c-a466-48a8-b16a-0ea21ee7fd58.png)
     <h1>   I am a junior at RBHS. </h1>
     <br>
-    <center><img src="friends.jpg" height="250">
+    <center>![friends](https://user-images.githubusercontent.com/89269488/130488862-18eb1cbb-d977-4bb2-97c0-1e0c3babe2d0.JPG)
     <br>
     <h1>These are some of my friends.<h1>
     <br>
