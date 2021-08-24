@@ -2,7 +2,6 @@
   <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title> index </title>
   </head>
   <body bgcolor="#39ABB9">
     <a href="index.html">Home</a>
