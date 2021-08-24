@@ -1,8 +1,8 @@
-<!doctype html>
-<html lang="en">
+  <!doctype html>
+  <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Home </title>
+    <title> index </title>
   </head>
   <body bgcolor="#39ABB9">
     <a href="index.html">Home at Last</a>
