@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sophia- About Me</title>
   </head>
   <body bgcolor="#b19cd9">
 	  <a href="index.html">Home</a>
