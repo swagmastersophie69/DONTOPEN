@@ -2,7 +2,7 @@
 <html>
   <head>
   </head>
-  <body bgcolor="#b19cd9">
+  <body bgcolor="#B19CD9">
 	  <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
