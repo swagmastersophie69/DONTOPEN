@@ -13,6 +13,5 @@
       <img src="https://user-images.githubusercontent.com/89269488/130490681-eaa238b1-caf1-4a1b-8341-befbae1dab7f.jpg" height="300">
     <h1> My projects are under Portfolio. <h1>
     <h1> Click "About Me" to learn more about me. <h1>
-    
   </body>
 </html>
