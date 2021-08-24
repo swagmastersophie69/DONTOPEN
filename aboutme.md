@@ -1,11 +1,10 @@
-# About Me
 <!doctype html>
-	<html lang="en">
-	  <head>
-	    <meta charset="utf-8">
-	    <title>Sophia- About Me</title>
-	  </head>
-	  <body bgcolor="#b19cd9">
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sophia- About Me</title>
+  </head>
+  <body bgcolor="#b19cd9">
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
