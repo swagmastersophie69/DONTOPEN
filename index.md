@@ -2,8 +2,7 @@
   <html lang="en">
   <head>
     <meta charset="utf-8">
-  </head>
-  <body bgcolor="#39ABB9">
+  <body bgcolor="#808080">
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
