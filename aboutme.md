@@ -24,5 +24,4 @@
     <p align="center">
 	    <img src="https://user-images.githubusercontent.com/89269488/130488949-cacd87e3-2c6e-4716-a13f-f351a6387df2.jpg" height="370">
     <h1> I play volleyball <h1>
-	  </body>
-	</html>
+	  
