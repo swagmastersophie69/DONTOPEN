@@ -9,5 +9,4 @@
     <h1>This is Sophia's Home Page!</h1>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/89269488/130490681-eaa238b1-caf1-4a1b-8341-befbae1dab7f.jpg" height="300">
-  </body>
-</html>
+ 
