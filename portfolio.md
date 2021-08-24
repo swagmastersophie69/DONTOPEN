@@ -1,8 +1,7 @@
 <!doctype html>
-	<html lang="en">
+<html lang="en">
 	  <head>
 	    <meta charset="utf-8">
-	    <title>Portfolio</title>
 	  </head>
 	  <body bgcolor="#578561">
     <a href="index.html">Home</a>
