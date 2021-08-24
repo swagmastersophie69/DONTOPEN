@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <title>Sophia- About Me</title>
-    <meta charset="utf-8"/>	  
   </head>
   <body bgcolor="#b19cd9">
-    <a href="index.html">Home</a>
+	  <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is all about me!</h1>
