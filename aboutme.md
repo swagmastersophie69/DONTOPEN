@@ -1,8 +1,8 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
     <title>Sophia- About Me</title>
+    <meta charset="utf-8"/>	  
   </head>
   <body bgcolor="#b19cd9">
     <a href="index.html">Home</a>
